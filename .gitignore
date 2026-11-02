@@ -1,0 +1,10 @@
+build/
+*.o
+*.out
+*.exe
+*.swp
+*~
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
